@@ -1,0 +1,2 @@
+# palakuminews
+schoolnews
